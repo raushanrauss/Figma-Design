@@ -19,4 +19,6 @@ Frontend
 ├── README.md
 └── tailwind.config.js
 ```
-- link: https://figma-design-lime.vercel.app/
+- link: [https://figma-design-lime.vercel.app/](https://figma-design-7s7g.vercel.app/)
+  ## Run this Commant to start the app.
+  - npm run start
