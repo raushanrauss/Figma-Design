@@ -10,8 +10,6 @@ Frontend
 ├── src/
 │   ├── assets/
 │   ├── components/
-│   ├── hooks/
-│   ├── pages/
 │   ├── styles/
 │   ├── utils/
 │   ├── App.tsx
