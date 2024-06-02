@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom {
+    @apply bg-no-repeat bg-cover bg-center;
+    background-image: url('/src/assets/Hero-Image-1.png');
+  }
